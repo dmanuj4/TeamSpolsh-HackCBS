@@ -10,7 +10,7 @@ We have developed a platform that analyzes your heart rate data and provides com
 
 ## Presentation
 
-[Link to Presentation]([insert_link_here](https://drive.google.com/file/d/15hC2sCiZPEXgys9Ekgf7UzLxwPKo6vbR/view?usp=sharing))
+[Link to Presentation]([https://drive.google.com/file/d/15hC2sCiZPEXgys9Ekgf7UzLxwPKo6vbR/view?usp=sharing]
 
 ## Team Member Details
 
